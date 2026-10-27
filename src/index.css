@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Cairo', 'Outfit', system-ui, sans-serif;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: none;
+    overscroll-behavior: none;
+  }
+}
+
+.font-num {
+  font-family: 'Outfit', 'Cairo', monospace, sans-serif;
+  font-variant-numeric: tabular-nums;
+}

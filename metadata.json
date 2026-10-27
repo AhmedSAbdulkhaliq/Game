@@ -1,0 +1,6 @@
+{
+  "name": "Hill Climb Physics 2D",
+  "description": "لعبة قيادة فيزيائية ثنائية الأبعاد مستوحاة من Hill Climb Racing بتضاريس إجرائية وسيارات قابلة للترقية ومحاكاة نوابض واقعية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
